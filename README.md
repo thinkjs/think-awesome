@@ -1,3 +1,5 @@
+This repository has been migrated. For ongoing updates, please see https://github.com/thinkjs/thinkjs/tree/master/packages/think-awesome.
+
 # think-awesome
 
 Awesome projects for `ThinkJS 3.x`
